@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# CSV files
+*.csv
+
+# XML config (optional)
+*.xml
+
+# Environment
+.env
+venv/
+env/
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+
+data/
